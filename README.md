@@ -1,9 +1,10 @@
 # Making a game with the SDL2 and PySDL2
 
-## IDEA
-wolfenstein clone
+## Summary
+The idea of this project was to create 2.5d game(a 2d game with the illusion of 3d using perspective) using SDL2.  I decided to make it in python so I ended up using a python wrapper called PySDL2 and c-type wrappers anywhere PySDL2 fell short.
 
 ## STACK
+The tech I used for this project<br/>
 python3<br/>
 sdl2<br/>
 sdl2-gfx<br/>
