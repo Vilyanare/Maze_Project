@@ -22,6 +22,7 @@ map files | Maps to be read by the map
 raycast.py | Contains all the code for the raycasting engine
 game_objects.py | Defines classes for different objects in the game
 colors.py | Definitions for different colors
+test.py | Test program to find bugs in my raycasting (minimap)
 ---
 
 ## INSTRUCTIONS
