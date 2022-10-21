@@ -30,7 +30,7 @@ Assuming an environment with Python3 installed<br/>
 Gitclone repository<br/>
 Install PySDL2<br/>
 ~~Download SDL2 library~~ (PYSDL2 has a copy of the SDL2 libararies and python will default to those)<br/>
-Run the program by typing "python3 maze.py"
+Run the program by typing "python maze.py"
 
 ## TO DO
 Need to find a way to smooth the edge lines of the walls.  I used an old guide for something that wanted a 300x280 pixel screen so just need to think about it.<br/>
