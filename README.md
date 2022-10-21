@@ -29,7 +29,7 @@ test.py | Visual representation of data to test raytracing (minimap)
 Assuming an environment with Python3 installed<br/>
 Gitclone repository<br/>
 Install PySDL2<br/>
-~~Download SDL2 library<br/>~~ (PYSDL2 has a copy of the SDL2 libararies and python will default to those)
+~~Download SDL2 library~~ (PYSDL2 has a copy of the SDL2 libararies and python will default to those)<br/>
 Run the program by typing "python3 maze.py"
 
 ## TO DO
